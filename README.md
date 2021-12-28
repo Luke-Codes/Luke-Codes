@@ -1,5 +1,5 @@
 ### Oiiiiii 👋
-## Eu sou o Luke, Desenvolvedor de sistemas !
+## Eu sou o Luke !
 <div align="center">
   <a href="https://github.com/Luke-Codes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luke-Codes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
