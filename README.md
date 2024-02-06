@@ -20,6 +20,5 @@
   <a href = "mailto:LukeSoftwareDev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
-  ![luke banner](https://media.discordapp.net/attachments/843910171448311809/858348843678171146/Luke_banner_discord3.png?width=1020&height=340)
- 
+  ![luke banner](https://cdn.discordapp.com/attachments/1203472607433986148/1204279253638713364/a_ce141905f5a13e68b0702a8ea518557d.png?width=1020&height=340)
 </div>
